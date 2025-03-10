@@ -1,3 +1,5 @@
 tekst piesni
 
 dura czensc
+
+pierwszy komit sromit
