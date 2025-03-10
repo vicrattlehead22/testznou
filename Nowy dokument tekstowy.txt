@@ -3,3 +3,5 @@ tekst piesni
 dura czensc
 
 pierwszy komit sromit
+
+drugi komit pierdomit
